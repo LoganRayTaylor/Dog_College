@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Dog" max_length="40" name="x_465141_dog_train_dog" sizeclass="2" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Breed" max_length="40" name="breed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Chihuahua" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="Yorky" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="Chorky" sequence="30" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="255" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Personality" max_length="40" name="personality" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Friendly" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="Aggressive" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="Shy" sequence="30" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>
