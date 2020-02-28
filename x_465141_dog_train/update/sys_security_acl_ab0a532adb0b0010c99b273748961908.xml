@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x.465141.workspace.dog_trainer</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-22 00:24:20</sys_created_on>
+        <sys_id>ab0a532adb0b0010c99b273748961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.465141.workspace.dog_trainer</sys_name>
+        <sys_package display_value="Dog Trainer" source="x_465141_dog_train">70c893a6db0b0010c99b273748961919</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dog Trainer">70c893a6db0b0010c99b273748961919</sys_scope>
+        <sys_update_name>sys_security_acl_ab0a532adb0b0010c99b273748961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-22 00:24:20</sys_updated_on>
+        <type display_value="ux_page">b9eb8a1b873303002941b53046cb0b18</type>
+    </sys_security_acl>
+</record_update>
