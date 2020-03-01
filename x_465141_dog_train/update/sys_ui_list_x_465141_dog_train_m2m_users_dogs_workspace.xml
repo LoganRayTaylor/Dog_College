@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_465141_dog_train_m2m_users_dogs" version="2" view="workspace">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dog</element>
+            <list_id display_value="x_465141_dog_train_m2m_users_dogs" element="NULL" name="x_465141_dog_train_m2m_users_dogs" parent="NULL" relationship="NULL" sys_domain="global" view="43e3b2eadbc30010c99b273748961991">561b0d29db130010c99b2737489619a7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-01 21:41:31</sys_created_on>
+            <sys_id>921b0d29db130010c99b2737489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-01 21:41:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_465141_dog_train_m2m_users_dogs" element="NULL" name="x_465141_dog_train_m2m_users_dogs" parent="NULL" relationship="NULL" sys_domain="global" view="43e3b2eadbc30010c99b273748961991">561b0d29db130010c99b2737489619a7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-01 21:41:31</sys_created_on>
+            <sys_id>961b0d29db130010c99b2737489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-01 21:41:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_465141_dog_train_m2m_users_dogs</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-01 21:41:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>561b0d29db130010c99b2737489619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_465141_dog_train_m2m_users_dogs</sys_name>
+            <sys_package display_value="Dog Trainer" source="x_465141_dog_train">70c893a6db0b0010c99b273748961919</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dog Trainer">70c893a6db0b0010c99b273748961919</sys_scope>
+            <sys_update_name>sys_ui_list_x_465141_dog_train_m2m_users_dogs_workspace</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-01 21:41:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">43e3b2eadbc30010c99b273748961991</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

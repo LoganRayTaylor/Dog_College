@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_ribbon_setting">
+    <sys_aw_ribbon_setting action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attrs/>
+        <component display_value="Customer360">931154a48710230084aca571d5cb0bc3</component>
+        <is_inheritable>false</is_inheritable>
+        <name>Trainer</name>
+        <order>10</order>
+        <sys_class_name>sys_aw_ribbon_setting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>dbb65521db530010c99b2737489619b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Trainer</sys_name>
+        <sys_package display_value="Dog Trainer" source="x_465141_dog_train">70c893a6db0b0010c99b273748961919</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dog Trainer">70c893a6db0b0010c99b273748961919</sys_scope>
+        <sys_update_name>sys_aw_ribbon_setting_dbb65521db530010c99b2737489619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:35:18</sys_updated_on>
+        <table>x_465141_dog_train_training_session</table>
+        <tag>sn-component-workspace-customer360</tag>
+        <width>4</width>
+        <workspace display_value="Dog Trainer">b20a5fe6db0b0010c99b273748961902</workspace>
+    </sys_aw_ribbon_setting>
+    <sys_variable_value action="delete_multiple" query="document_key=dbb65521db530010c99b2737489619b7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>02279921db530010c99b273748961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value/>
+        <variable display_value="">c9838973ff143300dda74b9ad53bf17c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>02279921db530010c99b273748961901</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:35:18</sys_updated_on>
+        <value>title,email,mobile_phone</value>
+        <variable display_value="">67b59cf08750230084aca571d5cb0b76</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>40</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>0e279921db530010c99b273748961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value/>
+        <variable display_value="">67d794348750230084aca571d5cb0bd0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>30</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>4a279921db530010c99b273748961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value/>
+        <variable display_value="">306650348750230084aca571d5cb0b06</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>60</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>4e279921db530010c99b273748961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value/>
+        <variable display_value="">81f3cd73ff143300dda74b9ad53bf1b0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>15</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>86279921db530010c99b273748961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">98335ca48710230084aca571d5cb0b43</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>35</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>8a279921db530010c99b273748961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">5a3714348750230084aca571d5cb0b65</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>55</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>c2279921db530010c99b273748961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">11c34d73ff143300dda74b9ad53bf154</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>dbb65521db530010c99b2737489619b7</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-01 22:34:11</sys_created_on>
+        <sys_id>ce279921db530010c99b273748961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-01 22:34:11</sys_updated_on>
+        <value>assigned_to</value>
+        <variable display_value="">8281d4a48710230084aca571d5cb0bc2</variable>
+    </sys_variable_value>
+</record_update>

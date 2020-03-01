@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_465141_dog_train_dog" version="2" view="workspace">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Dog - Workspace" name="x_465141_dog_train_dog" related_list="NULL" sys_domain="global" view="43e3b2eadbc30010c99b273748961991">5e1b0d29db130010c99b273748961990</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_465141_dog_train_m2m_users_dogs.dog</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-01 21:41:30</sys_created_on>
+            <sys_id>da1b0d29db130010c99b273748961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-01 21:41:30</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Dog - Workspace</calculated_name>
+            <filter/>
+            <name>x_465141_dog_train_dog</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-01 21:41:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e1b0d29db130010c99b273748961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dog - Workspace</sys_name>
+            <sys_package display_value="Dog Trainer" source="x_465141_dog_train">70c893a6db0b0010c99b273748961919</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dog Trainer">70c893a6db0b0010c99b273748961919</sys_scope>
+            <sys_update_name>sys_ui_related_x_465141_dog_train_dog_workspace</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-01 21:41:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">43e3b2eadbc30010c99b273748961991</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

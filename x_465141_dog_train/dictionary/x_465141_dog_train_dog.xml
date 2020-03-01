@@ -9,6 +9,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="255" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Owners" max_length="30" name="owners" reference="sys_user" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Personality" max_length="40" name="personality" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Friendly" sequence="10" value="1"/>
@@ -16,5 +17,6 @@
                 <element inactive_on_update="false" label="Shy" sequence="30" value="3"/>
             </choice>
         </element>
+        <element label="Photo" max_length="40" name="photo" type="user_image"/>
     </element>
 </database>
